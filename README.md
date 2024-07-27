@@ -121,13 +121,6 @@ These key points mentioned here will help me grow accountable and consistent tow
 - [My development code and notes](https://github.com/SartHak-0-Sach/cwh-web-dev-playlist_code_and_notes) - These are my notes that I made while working on my development skills in initial days and did these courses. Make sure to star the repository if you like it.✨💫
 - [MDN documentation hover state for CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/:hover) - This is an amazing article which helped me finally understand hover states. I'd recommend it to anyone still learning this concept.
 
-## Author
-
-<b><strong>Sarthak Sachdev</strong></b>
-- Website - [Sarthak Sachdev](https://itsmesarthak.netlify.app/)
-- LeetCode - [@sarthak_sachdev](https://leetcode.com/u/sarthak_sachdev/)
-- Twitter - [@sarthak_sach69](https://www.twitter.com/sarthak_sach69)
-
 ## Acknowledgments
 
 I feel like the solutions provided on the website and the continuous doubt solving by industry experts on discord for free is something that is unmatched by anyone else and need to be acknowledged for their efforts in improving me as a developer by suggesting the best practices in your respective tech stack.
