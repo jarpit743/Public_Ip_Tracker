@@ -35,7 +35,7 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository using GitHub Desktop or Git Bash:
     ```bash
-    git clone https://github.com/SartHak-0-Sach/IP-address-tracker_frontend_project.git
+    git clone https://github.com/jarpit743/Public_Ip_Tracker.git
     ```
 2. Open the project folder in your code editor.
 3. Run the project using a live server extension or deploy it using Netlify, Vercel, or another web hosting and deployment service.
@@ -115,11 +115,6 @@ The continuously learning journey of a programmer never ends. This project made 
 
 These key points mentioned here will help me grow accountable and consistent towards improving at writing good quality code and be a successful full stack developer one day.
 
-### Useful resources
-
-- [Harkirat Singh course notes](https://github.com/SartHak-0-Sach/harkirat-singh-course_code_and_notes) - I have added notes of all lectures along with code and lecture insights of all weeks along with bonus lectures to help you all as much as I can.
-- [My development code and notes](https://github.com/SartHak-0-Sach/cwh-web-dev-playlist_code_and_notes) - These are my notes that I made while working on my development skills in initial days and did these courses. Make sure to star the repository if you like it.✨💫
-- [MDN documentation hover state for CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/:hover) - This is an amazing article which helped me finally understand hover states. I'd recommend it to anyone still learning this concept.
 
 ## Acknowledgments
 
