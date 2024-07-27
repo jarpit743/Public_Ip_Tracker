@@ -8,13 +8,10 @@
   - [The challenge](#the-challenge)
   - [How to setup the project](#how-to-setup-the-project)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
@@ -43,11 +40,6 @@ To set up the project locally, follow these steps:
 ### Screenshot
 
 ![Design Preview](./design/active-states.jpg)
-
-### Links
-
-- Solution URL: [GitHub Repository](https://github.com/SartHak-0-Sach/IP-address-tracker_frontend_project)
-- Live Site URL: [Live Site](https://ip-address-tracker-app-project.netlify.app/)
 
 ## My process
 
@@ -122,7 +114,7 @@ I feel like the solutions provided on the website and the continuous doubt solvi
 
 ## Got feedback for me?
 
-I love receiving feedback! I am always looking to improve my code and take up new innovative ideas to work upon. So if you have anything you'd like to mention, please email 'hi' at saarsaach30[at]gmail[dot]com.
+I love receiving feedback! I am always looking to improve my code and take up new innovative ideas to work upon. So if you have anything you'd like to mention, please email 'hi' at jarpit743@gmail.com
 
 If you liked this project make sure to spread the word and share it with all your friends.
 
