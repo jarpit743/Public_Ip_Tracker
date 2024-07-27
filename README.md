@@ -7,7 +7,6 @@
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [How to setup the project](#how-to-setup-the-project)
-  - [Screenshot](#screenshot)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -36,10 +35,6 @@ To set up the project locally, follow these steps:
     ```
 2. Open the project folder in your code editor.
 3. Run the project using a live server extension or deploy it using Netlify, Vercel, or another web hosting and deployment service.
-
-### Screenshot
-
-![Design Preview](./design/active-states.jpg)
 
 ## My process
 
